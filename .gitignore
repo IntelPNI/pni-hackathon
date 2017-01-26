@@ -92,3 +92,6 @@ ENV/
 .*.swp
 
 place.txt
+
+# MacOS files
+.DS_Store
